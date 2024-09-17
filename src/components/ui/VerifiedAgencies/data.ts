@@ -1,0 +1,8 @@
+import { images } from "@/images/images";
+
+export const DATA_FAKE =
+    [{ title: 'Dahlia Technologies Pte. Ltd', content: 'Dahlia Technologies is an innovative software product and IT services company established in 2020 by a dynamic team of industry specialists and young professionals from varied backgrounds.', image: images.fasten_ai, location: ["Singapore", "Vietnam", "US"], service: ["App development", "Website design", "IT solutions", "Software product"], rating: 4 },
+    { title: 'Migi Technology Co., Ltd.', content: 'MIGI Technology Co. Ltd., was built by a group of enthusiastic and experienced experts in Information Technology field.', image: images.fasten_get_a_code, location: ["Singapore", "Vietnam", "US"], service: ["App development", "Website design", "IT solutions", "Software product"], rating: 4 },
+    { title: 'Interate Corporation', content: 'Interate Corp is a company specializing in technology, online advertising, multimedia, and entertainment.', image: images.fasten_meeting, location: ["Singapore", "Vietnam", "US"], service: ["App development", "Website design", "IT solutions", "Software product"], rating: 4 },
+    { title: 'Unikom Joint Stock Company', content: 'Dahlia Technologies is an innovative software product and IT services company established in 2020 by a dynamic team of industry specialists and young professionals from varied backgrounds. ', image: images.fasten_meeting, location: ["Singapore", "Vietnam", "US"], service: ["App development", "Website design", "IT solutions", "Software product"], rating: 4 }
+    ]

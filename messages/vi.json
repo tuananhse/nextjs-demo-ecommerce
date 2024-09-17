@@ -1,0 +1,61 @@
+{
+  "home": {
+    "title": "Hello world!",
+    "nav": {
+      "nav_agency": "AGENCY DIRECTORY",
+      "nav_market": "MARKETPLACE",
+      "nav_awards": "AWARDS",
+      "nav_news": "NEWS",
+      "nav_lang": "LANGUAGE",
+      "nav_contact": "Contact us"
+    },
+    "banner": {
+      "title": "Optimal digital solution",
+      "title_content": "Our company is an intermediary platform that connects businesses with experts in the field of information technology (IT) and technology solutions.",
+      "banner_get_stated": "GET STARTED",
+      "banner_contact_us": "CONTACT US",
+      "banner_placeholder": "Search for agencies, categories, project,...'"
+    },
+    "product": {
+      "banner_title": "Join 4,000+ companies already growing",
+      "enhance_business_title": "Enhance your business with our services",
+      "fasten_the_process": "Fasten the process with these features",
+      "agencies_with_variety": "Agencies with variety categories",
+      "agencies_view_all": "VIEW ALL SERVICE"
+    },
+    "marketplace": {
+      "latest_marketplace_title": "Latest marketplace project",
+      "tab_project": "Project",
+      "tab_industry": "Industry",
+      "tab_description": "Description",
+      "tab_budget": "Budget",
+      "view_more": "VIEW MORE"
+    },
+    "agencies": {
+      "verified_agencies": "Verified Agencies",
+      "view_profile": "VIEW PROFILE",
+      "view_website": "VIEW WEBSITE",
+      "view_all": "VIEW ALL"
+    },
+    "join_our": {
+      "title": "Join our community to enhance business",
+      "description": "Join along with 4,000+ other businesses to find the most suitable projects."
+    },
+    "save_time": {
+      "title": "Save time and costs with BIZUPP",
+      "agency": "Are you an agency ?",
+      "agency_des": "Submit your agency to join our community",
+      "looking_for": "Looking for an agency ?",
+      "looking_for_des": "Find your suitable agency with our services",
+      "submit": "Submit your agency",
+      "connect": "Connect with us"
+    },
+    "news": {
+      "keep_up": "Keep up with our news today",
+      "keep_up_content": "Stay updated with all the major news in the market today about the world's leading companies",
+      "your_name": "Your name",
+      "email": "Email",
+      "subscribe": "Subscribe"
+    }
+  }
+}

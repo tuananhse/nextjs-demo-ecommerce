@@ -1,0 +1,24 @@
+.root {
+  @apply sticky top-0 bg-white z-10 transition-all duration-150;
+}
+
+.link {
+  @apply inline-flex items-center leading-6 font-medium transition ease-in-out duration-75 cursor-pointer text-zinc-500 rounded-md p-1;
+}
+
+.contact_button {
+  @apply inline-flex items-center font-medium transition ease-in-out duration-75 cursor-pointer text-white p-1 bg-primary px-4 rounded-full bg-gradient-to-r from-[#1D88F8] via-[#1D88F8] to-[#8BE2FF] text-xs sm:text-sm md:text-lg text-center;
+  @apply hover:bg-gradient-to-r hover:from-[#0A74DA] hover:via-[#0A74DA] hover:to-[#67D1FF] hover:scale-105 hover:shadow-lg;
+}
+
+.contact_button:hover {
+  @apply focus:text-accent-foreground;
+}
+
+.link:hover {
+  @apply text-zinc-400;
+}
+
+.logo {
+  @apply cursor-pointer rounded-full transform duration-100 ease-in-out;
+}
